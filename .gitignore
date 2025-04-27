@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore datasets
+datasets/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Colab checkpoints
+.ipynb_checkpoints/
+
+# Ignore collected submission zip and PDF
+*_submission.zip
+*_submission.pdf
