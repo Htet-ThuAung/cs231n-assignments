@@ -20,7 +20,7 @@ The journey was designed to simulate a hands-on internship experience: independe
 - Developed custom backpropagation code for loss functions(SVM,Softmax)
 - Applied training techniques like stochastic gradient descent and data processing.
 - Evaluated performance using hyperparameter tuning and visualization tools.
-Detailed report: [Assignment 1 README](./assignment1/README.md)
+Detailed report:[![Assignment 1 README](https://img.shields.io/badge/Assignment%203-README-purple?style=for-the-badge)](./assignment1/README.md)
 
 ### Assignment 2 - Neural Networks and Training Deep Models
 - Extended fully connected networks to arbitary depths.
@@ -28,7 +28,7 @@ Detailed report: [Assignment 1 README](./assignment1/README.md)
 - Built and trained convolutional neural networks from scratch.
 - Transitioned from custom implementations to using PyTorch on CIFAR-10.
 - Focused on training stability, generalization, and performance tuning.
-Detailed  report: [Assignment 2 README](./assignment2/README.md)
+Detailed  report: [![Assignment 2 README](https://img.shields.io/badge/Assignment%203-README-purple?style=for-the-badge)](./assignment2/README.md)
 
 ### Assignment 3 - Generative Models and Self-Supervised Learning
 - Implemented RNNs and Transformers for image captioning on COCO dataset.
