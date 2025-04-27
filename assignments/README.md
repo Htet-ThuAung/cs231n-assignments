@@ -28,7 +28,7 @@ Detailed report:[![Assignment 1 README](https://img.shields.io/badge/Assignment%
 - Built and trained convolutional neural networks from scratch.
 - Transitioned from custom implementations to using PyTorch on CIFAR-10.
 - Focused on training stability, generalization, and performance tuning.
-Detailed  report: [![Assignment 2 README](https://img.shields.io/badge/Assignment%201-README-purple?style=for-the-badge)](./assignment2/README.md)
+Detailed  report: [![Assignment 2 README](https://img.shields.io/badge/Assignment%202-README-purple?style=for-the-badge)](./assignment2/README.md)
 
 ### Assignment 3 - Generative Models and Self-Supervised Learning
 - Implemented RNNs and Transformers for image captioning on COCO dataset.
