@@ -1,4 +1,4 @@
-### CS231n's assignment1
+### CS231n's Assignment1
 
 This repository includes my implementation of various classifiers from scratch as part of CS231n's assignment. The assignment introduced me to foundational techniques in image classification, from basic distance metrics to training a simple neural network. Each part helped build up my understanding of how models learn from data.
 
