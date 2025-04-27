@@ -2,9 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Ignore datasets
-datasets/
-
 # Ignore system files
 .DS_Store
 Thumbs.db
@@ -15,3 +12,9 @@ Thumbs.db
 # Ignore collected submission zip and PDF
 *_submission.zip
 *_submission.pdf
+
+# Ignore dataset files
+datasets/
+assignments/assignment3/data/
+assignments/assignment3/pretrained_model/
+assignments/assignment2/BatchNormalization.ipynb
